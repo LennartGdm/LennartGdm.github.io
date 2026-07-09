@@ -9,7 +9,7 @@ framework dependency.
 - `research.html` lists publications, working papers, and work in progress.
 - `assets/styles.css` controls the visual design.
 - `assets/picture_me.png` is the profile photo used on the home page.
-- `assets/CV_Lennart Goldemann.pdf` is the CV linked from the site.
+- `assets/CV_Goldemann.pdf` is the CV linked from the site.
 
 ## Editing Content
 
@@ -20,7 +20,7 @@ names unchanged unless you also update the links in the navigation.
 To add your CV, place the PDF at:
 
 ```text
-assets/CV_Lennart Goldemann.pdf
+assets/CV_Goldemann.pdf
 ```
 
 To add your photo, place the image at:
