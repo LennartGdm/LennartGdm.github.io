@@ -4,6 +4,8 @@
   --muted: #6f655b;
   --border: #ded1c0;
   --soft: #f3eadf;
+  --abstract-bg: #eef0e6;
+  --abstract-border: #d3d6c6;
   --link: #2e6670;
   --link-hover: #214b52;
   --max-width: 960px;
@@ -300,6 +302,13 @@ h3 {
   margin: 8px 0 13px;
 }
 
+.abstract[open] {
+  padding: 10px 14px 2px;
+  border: 1px solid var(--abstract-border);
+  border-radius: 4px;
+  background: var(--abstract-bg);
+}
+
 .abstract summary {
   display: inline-flex;
   align-items: center;
@@ -338,6 +347,7 @@ h3 {
 
 .abstract p {
   margin: 12px 0 14px;
+  color: var(--text);
 }
 
 .paper-links {
