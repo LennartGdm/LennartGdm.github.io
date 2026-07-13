@@ -8,7 +8,7 @@ framework dependency.
 - `index.html` is the home page.
 - `research.html` lists publications, working papers, and work in progress.
 - `assets/styles.css` controls the visual design.
-- `assets/picture_me.png` is the profile photo used on the home page.
+- `assets/picture_website.jpeg` is the profile photo used on the home page.
 - `assets/CV_Goldemann.pdf` is the CV linked from the site.
 
 ## Editing Content
@@ -26,7 +26,7 @@ assets/CV_Goldemann.pdf
 To add your photo, place the image at:
 
 ```text
-assets/picture_me.png
+assets/picture_website.jpeg
 ```
 
 ## Publishing With GitHub Pages
