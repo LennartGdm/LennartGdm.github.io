@@ -256,7 +256,7 @@ h3 {
 
 .news-list li {
   display: grid;
-  grid-template-columns: max-content minmax(0, 1fr);
+  grid-template-columns: minmax(140px, max-content) minmax(0, 1fr);
   gap: 18px;
 }
 
