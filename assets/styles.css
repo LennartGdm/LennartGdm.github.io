@@ -256,7 +256,7 @@ h3 {
 
 .news-list li {
   display: grid;
-  grid-template-columns: 120px minmax(0, 1fr);
+  grid-template-columns: max-content minmax(0, 1fr);
   gap: 18px;
 }
 
@@ -264,6 +264,10 @@ h3 {
 .paper-meta,
 .site-footer {
   color: var(--muted);
+}
+
+.news-list time {
+  white-space: nowrap;
 }
 
 .content-page {
