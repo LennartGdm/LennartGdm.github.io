@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lennartgdm.github.io/sitemap.xml
